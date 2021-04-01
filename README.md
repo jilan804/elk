@@ -1,3 +1,3 @@
 # elk
 
-see repo kubernates3
+see repo DeekshithSN/kubernetes
